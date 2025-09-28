@@ -1,26 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
+import Quiz from './components/Quiz';
+import { questions } from './data/questions';
 import './App.css';
 
-function App() {
+const App: React.FC = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header className="app-header">
+        <h1>🌱 EcoQuiz</h1>
+        <p>Teste seus conhecimentos sobre sustentabilidade!</p>
       </header>
+      
+      <main>
+        <Quiz questions={questions} />
+      </main>
+      
+      <footer>
+        <p>Desenvolvido para o Workshop Internacional de Mudanças Climáticas e Biodiversidade</p>
+      </footer>
     </div>
   );
-}
+};
 
 export default App;
