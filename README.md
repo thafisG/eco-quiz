@@ -59,7 +59,7 @@ npm install
 npm start
 \\\
 
-O projeto estará disponível em: [\http://localhost:3000\](https://eco-quiz-ten.vercel.app/)
+O projeto estará disponível em: https://eco-quiz-ten.vercel.app/
 
 ## 🗂️ Estrutura do Projeto
 
