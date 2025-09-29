@@ -1,4 +1,4 @@
-﻿# 🌱 EcoQuiz - Quiz Interativo de Sustentabilidade
+# 🌱 EcoQuiz - Quiz Interativo de Sustentabilidade
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)
@@ -59,7 +59,9 @@ npm install
 npm start
 \\\
 
-O projeto estará disponível em: https://eco-quiz-ten.vercel.app/
+O projeto estará disponível em: localhost/3000
+
+e também em: https://eco-quiz-ten.vercel.app/
 
 ## 🗂️ Estrutura do Projeto
 
