@@ -21,7 +21,7 @@ O EcoQuiz é uma aplicação web interativa que transforma educação ambiental 
 
 ## ✨ Funcionalidades
 
-- ✅ Quiz interativo com 8 perguntas sobre sustentabilidade
+- ✅ Quiz interativo com perguntas sobre sustentabilidade
 - ✅ Design 100% responsivo para mobile e desktop
 - ✅ Sistema de pontuação com feedback educativo
 - ✅ Explicações detalhadas para cada resposta
