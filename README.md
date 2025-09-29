@@ -17,7 +17,7 @@ O EcoQuiz é uma aplicação web interativa que transforma educação ambiental 
 - **Frontend:** React 18 + TypeScript
 - **Estilização:** CSS3 com Flexbox
 - **Controle de Versão:** Git e GitHub
-- **Deploy:** GitHub Pages (futuramente)
+- **Deploy:** Vercel
 
 ## ✨ Funcionalidades
 
