@@ -10,7 +10,7 @@ Projeto desenvolvido como parte de um artigo acadêmico, abordando o **Eixo Tem�
 
 O EcoQuiz é uma aplicação web interativa que transforma educação ambiental em uma experiência gamificada. Através de perguntas sobre sustentabilidade, o usuário testa seus conhecimentos enquanto aprende sobre práticas sustentáveis do cotidiano.
 
-**Link do Artigo:** 
+**Link do Artigo:**  https://docs.google.com/document/d/1ns-bpce4tWEWbKDeuxpyAborxdpDzGlQ/edit?usp=sharing&ouid=112609468446008640813&rtpof=true&sd=true
 
 ## 🚀 Tecnologias Utilizadas
 
